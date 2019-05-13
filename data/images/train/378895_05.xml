@@ -1,7 +1,7 @@
 <annotation>
-	<folder>img</folder>
+	<folder>train</folder>
 	<filename>378895_05.jpg</filename>
-	<path>/Users/manu/AndroidStudioProjects/pixial-training/img/378895_05.jpg</path>
+	<path>/Users/manu/AndroidStudioProjects/object_detection_demo/data/images/train/378895_05.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -33,6 +33,54 @@
 			<ymin>195</ymin>
 			<xmax>134</xmax>
 			<ymax>217</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>70</ymin>
+			<xmax>76</xmax>
+			<ymax>130</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>106</ymin>
+			<xmax>145</xmax>
+			<ymax>144</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>107</ymin>
+			<xmax>194</xmax>
+			<ymax>127</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>224</xmin>
+			<ymin>87</ymin>
+			<xmax>274</xmax>
+			<ymax>132</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -47,4 +47,16 @@
 			<ymax>390</ymax>
 		</bndbox>
 	</object>
+	<object>
+		<name>cock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>193</ymin>
+			<xmax>274</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
 </annotation>

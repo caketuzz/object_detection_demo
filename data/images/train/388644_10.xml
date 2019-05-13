@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>388644_10.jpg</filename>
+	<path>/Users/manu/AndroidStudioProjects/object_detection_demo/data/images/train/388644_10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>421</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>210</ymin>
+			<xmax>219</xmax>
+			<ymax>418</ymax>
+		</bndbox>
+	</object>
+</annotation>
