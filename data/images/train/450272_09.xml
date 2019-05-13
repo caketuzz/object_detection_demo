@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>450272_09.jpg</filename>
+	<path>/Users/manu/AndroidStudioProjects/pixial-training/img/450272_09.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>414</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>213</xmin>
+			<ymin>205</ymin>
+			<xmax>243</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+</annotation>
