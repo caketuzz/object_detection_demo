@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>404405_14(2).jpg</filename>
+	<path>/Users/manu/AndroidStudioProjects/object_detection_demo/data/images/train/404405_14(2).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>179</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pussy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>252</xmin>
+			<ymin>42</ymin>
+			<xmax>277</xmax>
+			<ymax>82</ymax>
+		</bndbox>
+	</object>
+</annotation>

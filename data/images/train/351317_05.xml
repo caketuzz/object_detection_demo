@@ -1,7 +1,7 @@
 <annotation>
-	<folder>img</folder>
+	<folder>train</folder>
 	<filename>351317_05.jpg</filename>
-	<path>/Users/manu/AndroidStudioProjects/pixial-training/img/351317_05.jpg</path>
+	<path>/Users/manu/AndroidStudioProjects/object_detection_demo/data/images/train/351317_05.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,18 @@
 			<ymin>204</ymin>
 			<xmax>130</xmax>
 			<ymax>235</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pussy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>203</xmin>
+			<ymin>369</ymin>
+			<xmax>261</xmax>
+			<ymax>401</ymax>
 		</bndbox>
 	</object>
 </annotation>

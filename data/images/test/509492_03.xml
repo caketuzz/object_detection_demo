@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>509492_03.jpg</filename>
+	<path>/Users/manu/AndroidStudioProjects/object_detection_demo/data/images/test/509492_03.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>391</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pussy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>160</ymin>
+			<xmax>153</xmax>
+			<ymax>197</ymax>
+		</bndbox>
+	</object>
+</annotation>
